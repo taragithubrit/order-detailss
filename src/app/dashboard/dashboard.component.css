@@ -1,0 +1,31 @@
+button.is-green{
+    
+    background-color: 	#69c2f6;
+  /* // background-color:	#FFA500; */
+  color: rgb(15, 76, 207);
+  border: none;
+}
+button.is-red{
+    border: none;
+    background-color: 	rgb(134, 242, 195);
+    /* // background-color:	#FFA500; */
+    color: rgb(6, 111, 57);
+
+}
+button.is-white{
+    border-color:#28C76F;
+    background-color:#28C76F;
+    /* // background-color:	#FFA500; */
+    color: white;
+
+}
+button.is-blue{
+    background-color: rgb(228, 98, 98);
+    color: rgb(189, 10, 10);
+    border: none ;
+  
+
+}
+button.is-gray{
+    border: none;
+}

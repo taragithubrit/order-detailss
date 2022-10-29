@@ -1,0 +1,23 @@
+.p-5 {
+    padding: 1rem!important;
+}
+.form-control {
+    margin-bottom: 1rem;
+}
+.btn-primary {
+   
+    width: -webkit-fill-available;
+    margin-bottom: 1rem;
+}
+.my-5 {
+    margin-top: 9rem!important;
+    margin-bottom: 3rem!important;
+}
+.form-label{
+    float: left;
+}
+img, svg {
+    vertical-align: middle;
+    margin-bottom: -23%;
+    margin-left: 37%;
+}
